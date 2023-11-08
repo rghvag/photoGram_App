@@ -1,4 +1,4 @@
-# Instagram Clone
+# PhotoGram App 
 
 A completely Responsive SocialMedia App- Works on Android & Web! 
 
